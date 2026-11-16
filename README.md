@@ -15,7 +15,7 @@ Most of my work lives in the four repos below — a Steam data platform doing CD
   <img alt="AWS" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img alt="Snowflake" height="42" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
   <img alt="Airflow" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" />
-  <img alt="dbt" height="40" src="assets/dbt.png" />
+  <img alt="dbt" height="37" src="assets/dbt.png" />
   <img alt="Docker" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img alt="Kafka" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
   <img alt="PostgreSQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
