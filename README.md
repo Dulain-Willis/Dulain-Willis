@@ -2,9 +2,9 @@
 
 <br>
 
-I'm a data engineer at Capio. The parts I like most are data modeling, warehousing, and the pipelines behind them.
+I'm a data engineer at Capio. Most of my work is warehouse modeling and the pipelines that feed it.
 
-I got into this from wanting to know what was happening under an analytics dashboard — what actually runs when someone opens one. Chasing that has kept pulling me further down the stack, into infrastructure, servers, and the homelab I run.
+I came to it from the analytics side. I wanted to know what was actually running when someone opened a dashboard, and answering that kept taking me lower down the stack. Now a lot of my free time goes to infrastructure and the homelab I run.
 
 <br>
 
