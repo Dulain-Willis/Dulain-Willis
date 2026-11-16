@@ -18,12 +18,11 @@ Most of my work lives in the four repos below — a Steam data platform doing CD
   <img alt="dbt" height="37" src="assets/dbt.png" />
   <img alt="Docker" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img alt="Kafka" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
-  <img alt="PostgreSQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img alt="Kubernetes" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
   <img alt="Terraform" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
+  <img alt="Linux" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img alt="GitHub Actions" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
   <img alt="Argo CD" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />
-  <img alt="Linux" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </p>
 
 ## Languages
