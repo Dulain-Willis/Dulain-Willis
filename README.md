@@ -2,9 +2,9 @@
 
 <br>
 
-I'm a data engineer at Capio, working on data pipelines and warehousing.
+I'm a data engineer at Capio. The parts I like most are data modeling, warehousing, and the pipelines behind them.
 
-Most of my interest is in the systems and infrastructure layer underneath that. I run a homelab, and the things I build usually end up being about Linux, Kubernetes, Terraform, and running servers.
+I got into this from wanting to know what was happening under an analytics dashboard — what actually runs when someone opens one. Chasing that has kept pulling me further down the stack, into infrastructure, servers, and the homelab I run.
 
 <br>
 
