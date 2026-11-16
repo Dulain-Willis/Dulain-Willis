@@ -1,25 +1,56 @@
 <h1 align="center">Dulain Willis</h1>
 
 <h3 align="center">Data Engineer @ Capio</h3>
-
-<p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E">
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white">
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B">
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white">
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-</p>
-
-<p align="center">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  <img alt="Argo CD" src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white">
-  <img alt="Debezium" src="https://img.shields.io/badge/Debezium-090F1B">
-</p>
 <br>
 
-I build data platforms that look like production rather than like demos — permission isolated environments, human approved deploys, and pipelines that survive dirty data.
+I build data platforms that look like production rather than like demos: environments isolated by permissions instead of convention, deploys that need a human to approve them, and pipelines that survive the dirty data every real source system produces.
+
+Most of my work lives in the four repos below — a Steam data platform doing CDC from Postgres to Snowflake, and a knowledge base of data engineering lessons an agent can read.
+
+<br>
+
+## Languages
+
+<p align="center">
+  <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="TypeScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Bash" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  <img alt="SQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="R" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
+  <img alt="Lua" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
+  <img alt="Swift" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+  <img alt="HTML" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="LaTeX" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
+</p>
+
+## Tools &amp; Technologies
+
+<p align="center">
+  <img alt="AWS" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="Airflow" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" />
+  <img alt="Kafka" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
+  <img alt="PostgreSQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="Terraform" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
+  <img alt="Kubernetes" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
+  <img alt="Argo CD" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" />
+</p>
+
+<p align="center">
+  <img alt="Snowflake" height="42" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
+  <img alt="Helm" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" />
+  <img alt="Docker" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="GitHub Actions" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
+  <img alt="Git" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="Linux" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="Neovim" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" />
+</p>
+
+<p align="center">
+  <img alt="dbt" height="28" src="https://img.shields.io/badge/dbt-FF694B" />
+  <img alt="Debezium" height="28" src="https://img.shields.io/badge/Debezium-090F1B" />
+</p>
 
 <br>
 
