@@ -3,9 +3,9 @@
 <h3 align="center">Data Engineer @ Capio</h3>
 <br>
 
-I build data platforms that look like production rather than like demos: environments isolated by permissions instead of convention, deploys that need a human to approve them, and pipelines that survive the dirty data every real source system produces.
+I'm a data engineer at Capio, working on data pipelines and warehousing.
 
-Most of my work lives in my pinned repos — a Steam data platform doing CDC from Postgres to Snowflake, and a knowledge base of data engineering lessons an agent can read.
+Most of my interest is in the systems and infrastructure layer underneath that. I run a homelab, and the things I build usually end up being about Linux, Kubernetes, Terraform, and running servers.
 
 <br>
 
