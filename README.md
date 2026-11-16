@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a data engineer at Capio. Most of my work is in running data platforms that serve reporting and Data Science. 
+I'm a data engineer at Capio. Most of my work is in running data platforms that serve reporting and data science. 
 
 I came to it from the analytics side. I wanted to know what was actually running when someone opened a dashboard, and answering that kept taking me lower down the stack. This led me down a path to a whole differnt skillset including infrastrcture, governance, and data pipelines.
 
