@@ -34,12 +34,3 @@ Most of my work lives in the four repos below — a Steam data platform doing CD
 </p>
 
 <br>
-
-## What I'm Building
-
-| Project | What it is |
-| --- | --- |
-| [steam-data-platform](https://github.com/Dulain-Willis/steam-data-platform) | A cloud native Steam data platform: CDC from Postgres to Snowflake on AWS, Terraform and ArgoCD on EKS, dbt and Airflow on top |
-| [data-eng-knowledge](https://github.com/Dulain-Willis/data-eng-knowledge) | 120 data engineering lessons as Markdown, plus an MCP server so an agent can answer from them |
-| [data-engineering-playbook](https://github.com/Dulain-Willis/data-engineering-playbook) | Interview questions across every data engineering topic |
-| [fflow](https://github.com/Dulain-Willis/fflow) | An open source data loader packaged for Python |
