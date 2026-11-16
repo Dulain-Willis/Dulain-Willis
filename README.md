@@ -14,7 +14,7 @@ Most of my work lives in the four repos below — a Steam data platform doing CD
 <p>
   <img alt="Java" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="SQL" height="30" src="https://img.shields.io/badge/SQL-4479A1" />
+  <img alt="SQL" height="42" src="assets/sql.png" />
 </p>
 
 ## Tools &amp; Technologies
