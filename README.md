@@ -1,6 +1,5 @@
 <h1 align="center">Dulain Willis</h1>
 
-<h3 align="center">Data Engineer @ Capio</h3>
 <br>
 
 I'm a data engineer at Capio, working on data pipelines and warehousing.
@@ -17,7 +16,10 @@ Most of my interest is in the systems and infrastructure layer underneath that. 
   <img alt="Airflow" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" />
   <img alt="dbt" height="37" src="assets/dbt.png" />
   <img alt="Docker" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="Kafka" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/kafka-dark.png">
+    <img alt="Kafka" height="42" src="assets/kafka-light.png" />
+  </picture>
   <img alt="Kubernetes" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />
   <img alt="Terraform" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />
   <img alt="Linux" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
