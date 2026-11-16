@@ -5,7 +5,7 @@
 
 I build data platforms that look like production rather than like demos: environments isolated by permissions instead of convention, deploys that need a human to approve them, and pipelines that survive the dirty data every real source system produces.
 
-Most of my work lives in the four repos below — a Steam data platform doing CDC from Postgres to Snowflake, and a knowledge base of data engineering lessons an agent can read.
+Most of my work lives in my pinned repos — a Steam data platform doing CDC from Postgres to Snowflake, and a knowledge base of data engineering lessons an agent can read.
 
 <br>
 
