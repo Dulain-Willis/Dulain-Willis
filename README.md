@@ -12,17 +12,9 @@ Most of my work lives in the four repos below — a Steam data platform doing CD
 ## Languages
 
 <p align="center">
+  <img alt="Java" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="TypeScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Bash" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-  <img alt="SQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img alt="R" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
-  <img alt="Lua" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
-  <img alt="Swift" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
-  <img alt="HTML" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="LaTeX" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
+  <img alt="SQL" height="30" src="https://img.shields.io/badge/SQL-4479A1" />
 </p>
 
 ## Tools &amp; Technologies
